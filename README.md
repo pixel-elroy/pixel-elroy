@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pixel-elroy
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project involving basic C++ programming skills.
 - 📫 How to reach me ...
 
 <!---
